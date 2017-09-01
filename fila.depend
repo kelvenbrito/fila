@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1504217683 source:c:\users\aluno.info18\music\fila\fila (2).c
+	<stdio.h>
+	<stdlib.h>
+
+1504223926 source:c:\users\aluno.info18\music\fila\fila.c
+	<stdio.h>
+	<stdlib.h>
+
